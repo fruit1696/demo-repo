@@ -1,3 +1,3 @@
 # Demo
 
-for those whi just startedwith git and github
+for those who just started git and github!
